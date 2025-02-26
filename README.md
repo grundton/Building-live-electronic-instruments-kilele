@@ -1,5 +1,6 @@
 # Building-live-electronic-instruments-kilele
 A repository containing the patches for the Building live-electronic instruments workshop at Kilele.
+For more information on the workshop, you can follow [this link](https://iwk.mdw.ac.at/hofmann/peek-etudes/materials/2024/02/19/ElDabh_Material/).
 
 # Requirements
 For this project a working version of [Pure Data](https://puredata.info/downloads) is required. I recommend getting the "vanilla" distribution.
